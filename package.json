@@ -1,0 +1,23 @@
+{
+  "name": "vue-wheel",
+  "version": "0.0.1",
+  "description": "这是一个UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xiaokunxu/Vue-wheel.git"
+  },
+  "keywords": [
+    "vueui\u001b[D\u001b[D",
+    "\u001b[ui"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaokunxu/Vue-wheel/issues"
+  },
+  "homepage": "https://github.com/xiaokunxu/Vue-wheel#readme"
+}
